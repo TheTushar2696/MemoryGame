@@ -1,0 +1,18 @@
+export const letters = [
+  {key: 1, letter: 'A', flipped: false, visible: true},
+  {key: 2, letter: 'B', flipped: false, visible: true},
+  {key: 3, letter: 'C', flipped: false, visible: true},
+  {key: 4, letter: 'D', flipped: false, visible: true},
+  {key: 5, letter: 'E', flipped: false, visible: true},
+  {key: 6, letter: 'F', flipped: false, visible: true},
+  {key: 7, letter: 'G', flipped: false, visible: true},
+  {key: 8, letter: 'H', flipped: false, visible: true},
+  {key: 9, letter: 'A', flipped: false, visible: true},
+  {key: 10, letter: 'B', flipped: false, visible: true},
+  {key: 11, letter: 'C', flipped: false, visible: true},
+  {key: 12, letter: 'D', flipped: false, visible: true},
+  {key: 13, letter: 'E', flipped: false, visible: true},
+  {key: 14, letter: 'F', flipped: false, visible: true},
+  {key: 15, letter: 'G', flipped: false, visible: true},
+  {key: 16, letter: 'H', flipped: false, visible: true},
+];
